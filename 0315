@@ -1,0 +1,21 @@
+<!DOCTYPE html> ------ 문서의 타입은 html 이다
+
+<html> ------ html 시작
+
+  <head> ------ head 시작
+
+  <meta charset="utf-8"> ------ 언어 셋은 utf - 8 을 사용할 것이다.
+
+  <title>박병용</title> ------ 제목은 이거다.
+
+  </head> ------ head 끝
+
+  <body> ------ body 시작
+
+    안녕하세요 저는 박병용 입니다.
+
+    바디 태그 안쪽은 브라우저에서 보여지는 부분입니다.
+
+  </body> ------ body 끝
+
+</html> ------ html 끝
